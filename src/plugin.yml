@@ -1,0 +1,13 @@
+name: PhoenixPlot
+version: 0.1
+author: _SilverPhoenix
+description: Ein Vorbau und Bauevent PlotSystem
+main: net.royalguardians.phoenixplot.PhoenixPlot
+depend:
+  - PhoenixID
+api-version: 1.8
+load: STARTUP
+commands:
+  Buildevent:
+  Plot:
+  Spawn:
